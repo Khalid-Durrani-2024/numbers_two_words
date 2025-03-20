@@ -1,5 +1,5 @@
 name: numbers_two_words
-description: "A new Flutter package project."
+description: "a flutter package for converting the number into words, it takes two parameter 1. Number which will be converting to words, 2. language code in which language the words should be generate"
 version: 0.0.1
 homepage:
 
