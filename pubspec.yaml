@@ -1,8 +1,10 @@
 name: numbers_two_words
 description: "a flutter package for converting the number into words, it takes two parameter 1. Number which will be converting to words, 2. language code in which language the words should be generate"
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/Khalid-Durrani-2024/numbers_two_words
+repository: https://github.com/Khalid-Durrani-2024/numbers_two_words
+issue_tracker: https://github.com/Khalid-Durrani-2024/numbers_two_words/issues
+author: Khalid Durrani khaliddurrani113@gmail.com
 environment:
   sdk: ^3.6.2
   flutter: ">=1.17.0"
