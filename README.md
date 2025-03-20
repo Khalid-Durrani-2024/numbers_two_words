@@ -1,39 +1,26 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Numbers Two Words
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package provides a simple way to convert numbers into their English, Dari, and Pashto word representations. It is designed for developers who need to display numbers as words in their applications, making it particularly useful for educational apps, financial applications, or any app that requires number representation in word form.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Convert numbers from 1 to 100 into words in English, Dari, and Pashto.
+- Simple API for easy integration into your Dart or Flutter applications.
+- Supports all basic number formats, ensuring accurate word representation.
 
-## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 
-## Usage
+## Getting Started
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+### Prerequisites
 
-```dart
-const like = 'sample';
-```
+- Dart SDK (version 2.12.0 or higher)
+- Flutter SDK (if using in a Flutter project)
 
-## Additional information
+### Installation
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+Add `numbers_two_words` to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  numbers_two_words: ^0.0.1
